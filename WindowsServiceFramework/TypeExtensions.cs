@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BlackRabbit.WindowsService.DebuggableService.Framework
+namespace HareBrained.WindowsService.Framework
 {
 	/// <summary>
 	/// Extension methods for the Type class

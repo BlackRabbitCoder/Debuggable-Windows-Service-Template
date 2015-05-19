@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Linq;
 using System.ServiceProcess;
-using BlackRabbit.WindowsService.DebuggableService.Framework;
+using HareBrained.WindowsService.Framework;
 
 
-namespace BlackRabbit.WindowsService.DebuggableService
+namespace HareBrained.WindowsService.Sample
 {
 	static class Program
 	{

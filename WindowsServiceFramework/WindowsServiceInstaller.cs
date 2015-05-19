@@ -7,7 +7,7 @@ using System.Reflection;
 using System.ServiceProcess;
 using System.Linq;
 
-namespace BlackRabbit.WindowsService.DebuggableService.Framework
+namespace HareBrained.WindowsService.Framework
 {
 	/// <summary>
 	/// A generic windows service installer
@@ -19,14 +19,6 @@ namespace BlackRabbit.WindowsService.DebuggableService.Framework
 		/// Gets or sets the type of the windows service to install.
 		/// </summary>
 		public WindowsServiceAttribute Configuration { get; set; }
-
-
-		/// <summary>
-		/// Creates a blank windows service installer with configuration in ServiceImplementation
-		/// </summary>
-		public WindowsServiceInstaller() : this (typeof(ServiceImplementation))
-		{
-		}
 
 
 		/// <summary>

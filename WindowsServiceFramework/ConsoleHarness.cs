@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlackRabbit.WindowsService.DebuggableService.Framework
+namespace HareBrained.WindowsService.Framework
 {
     /// <summary>
     /// The harness for controlling service output to the console

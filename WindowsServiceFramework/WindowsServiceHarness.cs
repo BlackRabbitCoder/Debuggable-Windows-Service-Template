@@ -2,7 +2,7 @@
 using System.ServiceProcess;
 
 
-namespace BlackRabbit.WindowsService.DebuggableService.Framework
+namespace HareBrained.WindowsService.Framework
 {
 	/// <summary>
 	/// A generic Windows Service that can handle any assembly that

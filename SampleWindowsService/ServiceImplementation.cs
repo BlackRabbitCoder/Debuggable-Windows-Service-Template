@@ -1,8 +1,8 @@
-﻿using BlackRabbit.WindowsService.DebuggableService.Framework;
+﻿using HareBrained.WindowsService.Framework;
 using System.ServiceProcess;
 
 
-namespace BlackRabbit.WindowsService.DebuggableService
+namespace HareBrained.WindowsService.Sample
 {
 	/// <summary>
 	/// The actual implementation of the windows service goes here...

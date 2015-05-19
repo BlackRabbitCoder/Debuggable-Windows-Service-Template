@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlackRabbit.WindowsService.DebuggableService.Framework
+namespace HareBrained.WindowsService.Framework
 {
 	/// <summary>
 	/// The interface that any windows service should implement to be used

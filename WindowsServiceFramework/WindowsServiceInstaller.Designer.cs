@@ -1,4 +1,4 @@
-﻿namespace BlackRabbit.WindowsService.DebuggableService.Framework
+﻿namespace HareBrained.WindowsService.Framework
 {
 	public partial class WindowsServiceInstaller
 	{
